@@ -1,0 +1,8 @@
+.slide-left-enter, .slide-right-leave-active{
+  -webkit-transform: translate(100%, 0);
+  transform: translate(100%, 0);
+}
+.slide-right-enter, .slide-left-leave-active{
+  -webkit-transform: translate(-100%, 0);
+  transform: translate(-100%, 0);
+}
