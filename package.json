@@ -1,8 +1,8 @@
 {
-  "name": "demo",
+  "name": "WeQQChat",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "",
+  "description": "Imitation QQ of Vue.js to write.",
+  "author": "MR158",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
